@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_juvenil"
+        android:title="Atleta Juvenil" />
+    <item
+        android:id="@+id/menu_senior"
+        android:title="Atleta Sênior" />
+    <item
+        android:id="@+id/menu_outro"
+        android:title="Outro Atleta" />
+</menu>
